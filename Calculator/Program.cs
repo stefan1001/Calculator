@@ -11,6 +11,7 @@ namespace Calculator
         static void Main(string[] args)
         {
             Console.WriteLine("Hej");
+            Console.WriteLine("Hejdå");
         }
     }
 }
