@@ -12,6 +12,7 @@ namespace Calculator
         {
             Console.WriteLine("Hej");
             Console.WriteLine("Hejdå");
+            Console.WriteLine("...");
         }
     }
 }
