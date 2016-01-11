@@ -10,6 +10,7 @@ namespace Calculator
     {
         static void Main(string[] args)
         {
+            // 4
             Console.WriteLine("Hej");
             Console.WriteLine("Hejdå");
             Console.WriteLine("...");
